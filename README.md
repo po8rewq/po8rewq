@@ -20,6 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=po8rewq&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-☕ If you like what I do, consider boying me a coffee
+☕ If you like what I do, consider buying me a coffee
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/revolugame) 
